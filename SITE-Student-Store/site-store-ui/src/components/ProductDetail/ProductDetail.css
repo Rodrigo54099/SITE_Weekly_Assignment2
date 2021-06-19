@@ -1,0 +1,67 @@
+.ProductDetail {
+ height: 700px;;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color:rgb(163, 163, 163);
+}
+
+.ProductDetail .card {
+  border: 1px solid rgba(196, 196, 196, 0.3);
+  background: white;
+  margin: 0 auto;
+  padding: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 500px;
+  max-width: 600px;
+  width: 100%;
+}
+.ProductDetail .card .title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.ProductDetail .card .title h3 {
+  font-size: 30px;
+}
+.ProductDetail .card .description {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}
+
+.ProductDetail .card img {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 200px;
+}
+.ProductDetail .card .meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.ProductDetail .card .amount {
+  display: flex;
+  align-items: center;
+  padding: 8px 12px;
+  background: rgba(44, 65, 71, 1);
+  color: white;
+}
+.ProductDetail .card .amount.minus {
+  display: flex;
+  align-items: center;
+  margin: 0rem 14rem;
+  padding: 8px 12px;
+  background: rgb(17, 155, 219);
+  color: white;
+}

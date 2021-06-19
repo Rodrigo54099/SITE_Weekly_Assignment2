@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rice Krispies",
+      "category": "Food",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/RKTsquares.jpg",
+      "source": "https://en.wikipedia.org/wiki/Rice_Krispies_Treats",
+      "description": "Delicious corn-based rice grains melted together with marshmallows into a square-like shape.",
+      "price": 100,
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Flamin Hot Cheetos",
+      "category": "Food",
+      "image": "https://static.openfoodfacts.org/images/products/896/400/009/0879/front_en.14.full.jpg",
+      "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
+      "description": "No one knows what's in the powder that covers these snacks, but wow is it amazing!",
+      "price": 150,
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Snickers",
+      "category": "Food",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61XSrUOrZzL._SL1000_.jpg",
+      "source": "https://www.amazon.in/Snickers-Chocolate-Bar-50g/dp/B0721BMCDV",
+      "description": "You're not you when you're hungry. Have a snickers!",
+      "price": 100,
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Pop-tarts",
+      "category": "Food",
+      "image": "https://images.heb.com/is/image/HEBGrocery/001179925",
+      "source": "https://www.heb.com/product-detail/pop-tarts-breakfast-toaster-pastries-frosted-s-mores/1179925",
+      "description": "You cannot resist these delicious pop-tarts. Might as well buy them now!",
+      "price": 200,
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "name": "Gatorade",
+      "category": "Drinks",
+      "image": "https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/323/323211/gatorade-energy-drink.jpg?w=1155&h=1659",
+      "source": "https://www.medicalnewstoday.com/articles/323211",
+      "description": "Feeling thirsty? Replenish your electrolytes and get back in the game!",
+      "price": 200,
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "name": "Water",
+      "category": "Drinks",
+      "image": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/PT/2019-PT/blogdainimerwaterbottlestock1.jpeg;maxWidth=1200",
+      "source": "https://www.ptonline.com/blog/post/collaboration-on-pha-based-water-bottles-underway",
+      "description": "Everyone needs water to keep pushing through their day. Remember to stay hydrated!",
+      "price": 100,
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "name": "Pocky",
+      "category": "Food",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91neiakyWVL._SL1500_.jpg",
+      "source": "https://www.amazon.com/Glico-Pocky-Chocolate-Japanese-Party/dp/B00EWAJQXQ",
+      "description": "These delicious chocolate sticks are always a great snack! Especially on the go!",
+      "price": 150,
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "name": "Coca Cola",
+      "category": "Drinks",
+      "image": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_1005364128_389765.jpg",
+      "source": "https://www.inc.com/chris-matyszczyk/coca-cola-just-made-a-huge-strategic-decision-that-will-change-everybodys-perception-of-coke.html",
+      "description": "When its blazing hot, take a break and enjoy your time with a nice and refreshing coke!",
+      "price": 150,
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "name": "Chewy Granola Bars",
+      "category": "Food",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_31dcbf05-01a6-4d96-9140-daa2b4126147?wid=488&hei=488&fmt=pjpeg",
+      "source": "https://www.target.com/p/quaker-big-chewy-chocolate-chip-granola-bars-5ct/-/A-14432429",
+      "description": "These chewy gronola bars are soooo chewy! and delicious too, get them now!",
+      "price": 100,
+      "rating": 5
+    },
+    {
+      "id": 10,
+      "name": "Doritos",
+      "category": "Food",
+      "image": "https://www.kroger.com/product/images/large/front/0002840064306",
+      "source": "https://www.kroger.com/p/doritos-nacho-cheese-flavored-tortilla-chips-party-size/0002840064306",
+      "description": "Going to a party? Don't forget to take these doritos with you! Delicious and made for everyone!",
+      "price": 300,
+      "rating": 5
+    }
+  ]
+}

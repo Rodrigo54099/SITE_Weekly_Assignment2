@@ -1,0 +1,29 @@
+.Navbar {
+  height: 90px;
+  width: 100%;
+  max-width: 100vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 60px;
+  background:rgb(214, 214, 214);
+  
+}
+.Navbar .logo {
+  min-width: 100px;
+  width: 100%;
+  max-width: 150px;
+}
+.Navbar .search {
+  flex: 1;
+}
+
+.Navbar .navLinks{
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+  align-items:center;
+  list-style: none;
+  text-decoration: none;
+  color:black;
+}
